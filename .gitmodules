@@ -1,0 +1,6 @@
+[submodule "zapping_frontend"]
+	path = zapping_frontend
+	url = https://github.com/penti2s/zapping-stream-front.git
+[submodule "zapping_stream"]
+	path = zapping_stream
+	url = https://github.com/penti2s/zapping_stream.git
